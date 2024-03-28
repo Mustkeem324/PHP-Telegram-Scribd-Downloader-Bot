@@ -58,7 +58,7 @@ if (($newchat_id != '' or $leftchat_id != '') || ($message && ($join == 'left' o
     ]);
 
     // Terminate the script
-    die('A_god');
+    die('NX');
 }
 //*****Start Command*****//
 if ($text == '/start') {
